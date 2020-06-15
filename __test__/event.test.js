@@ -1,6 +1,6 @@
 'use strict';
 
-let logger = require('../lib/caps');
+let logger = require('../lib/caps/caps');
 let faker = require('faker');
 
 
