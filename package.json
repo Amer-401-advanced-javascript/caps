@@ -1,0 +1,30 @@
+{
+  "name": "caps",
+  "version": "1.0.0",
+  "description": "## Project: Caps",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest --verbose --coverage",
+    "lint": "eslint '*/**.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amer-401-advanced-javascript/caps.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amer-401-advanced-javascript/caps/issues"
+  },
+  "homepage": "https://github.com/Amer-401-advanced-javascript/caps#readme",
+  "devDependencies": {
+    "eslint": "^7.2.0",
+    "faker": "^4.1.0",
+    "jest": "^26.0.1"
+  }
+}
