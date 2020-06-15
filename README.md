@@ -7,7 +7,7 @@
 ### Links and Resources
 
 - [submission PR](https://github.com/Amer-401-advanced-javascript/caps/pull/1)
-[ci/cd](https://github.com/Amer-401-advanced-javascript/caps/actions) (GitHub Actions)
+- [ci/cd](https://github.com/Amer-401-advanced-javascript/caps/actions) (GitHub Actions)
 <!-- - - [back-end server url](http://xyz.com) (when applicable)
 - [front-end application](http://xyz.com) (when applicable) -->
 
@@ -35,4 +35,5 @@ i.e.
 #### UML
 
 Link to an image of the UML for your application and response to events
+
 [UML](https://drive.google.com/file/d/1QipZaGmgaLv4Ypo-VXCETFh3IFDCvmFY/view?usp=sharing)
